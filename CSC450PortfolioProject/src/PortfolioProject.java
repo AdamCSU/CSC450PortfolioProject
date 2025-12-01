@@ -29,7 +29,6 @@ public class PortfolioProject {
 	}
 	
 	
-	
 	public static void main(String[] args) {
 	
 		System.out.println("Let the counting begin ");  //Intro message
